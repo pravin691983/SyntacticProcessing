@@ -92,12 +92,12 @@ It contains four data file for this activity to proceed, they are
 
 Based on our analysis and as per our Model, below are observationn:
 
-- Predicted F1-score for Medical Entity Dataset is: ** 92.5 % **
+- Predicted F1-score for Medical Entity Dataset is: **92.5 %**
 
 Also the predicted the treatment for the disease name: 'hereditary retinoblastoma' is:
 
-- Identified Disease: ** retinoblastoma **.
-- Identified Treatment: ** radiotherapy **.
+- Identified Disease: **retinoblastoma**.
+- Identified Treatment: **radiotherapy**.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
